@@ -36,9 +36,14 @@ h1 {
 .main-content {
     width: 65%;
     margin-right: 5%;
+   
 }
 
 .sidebar {
     width: 30%;
+}
+
+.col-left {
+margin-right: 5%;
 }
 
