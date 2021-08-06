@@ -39,8 +39,23 @@ h1 {
 
 .sidebar {
     width: 30%;
+    background-color: #95eb5d;
+    padding: 0% 2% 0 2%;
 }
 
 .col-right {
     margin-left: 25px;
+}
+
+.sidebar a{
+    font-size: 14px;
+}
+.a:link {
+    color: #9AE84F;
+    text-decoration: none;
+}
+
+.a:hover {
+   color: #9138B7;
+   text-decoration: none;
 }
